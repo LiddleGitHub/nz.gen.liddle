@@ -1,5 +1,23 @@
 DUMP.txt
 ================================================================================
+m@m:~/LiddleGIT/github/nz.gen.liddle$ git pull origin main
+
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), 1.29 KiB | 1.29 MiB/s, done.
+
+From github.com:LiddleGitHub/nz.gen.liddle
+ * branch            main       -> FETCH_HEAD
+   97f991d..ed3f78b  main       -> origin/main
+
+Updating 97f991d..ed3f78b
+Fast-forward
+ README.md | 1 -
+ 1 file changed, 1 deletion(-)
+================================================================================
+
 https://github.com/LiddleGitHub/nz.gen.liddle/settings/branches
 
 Allow force pushes
