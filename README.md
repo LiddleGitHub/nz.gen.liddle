@@ -1,2 +1,2 @@
 # nz.gen.liddle
-<h1>Hullo Liddle World</h1>
+<h2>Hullo Liddle World</h2>
