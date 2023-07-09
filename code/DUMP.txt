@@ -1,0 +1,27 @@
+DUMP.txt
+================================================================================
+https://github.com/LiddleGitHub/nz.gen.liddle/settings/branches
+
+Allow force pushes
+Permit force pushes for all users with push access.
+
+================================================================================
+m@m:~/LiddleGIT/github/nz.gen.liddle$ git commit -am 'Liddle v.0.0.3'
+[main 56524e6] Liddle v.0.0.3
+ 1 file changed, 1 insertion(+)
+m@m:~/LiddleGIT/github/nz.gen.liddle$ git push origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 346 bytes | 346.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+remote: Bypassed rule violations for refs/heads/main:
+remote: 
+remote: - Cannot change this locked branch
+remote: 
+To github.com:LiddleGitHub/nz.gen.liddle.git
+   fe487ea..56524e6  main -> main
+--------------------------------------------------------------------------------
+END
