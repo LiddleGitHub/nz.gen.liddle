@@ -1,5 +1,24 @@
 I-AM-HERE.txt
 ================================================================================
 i am here 2023
+
+m@m:~/LiddleGIT/github/nz.gen.liddle
+
+$ git add I-AM-HERE.txt
+$ git commit -am 'Liddle v.0.0.1'
+
+m@m:~/LiddleGIT/github/nz.gen.liddle$ git push origin main
+
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 298 bytes | 298.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+
+To github.com:LiddleGitHub/nz.gen.liddle.git
+   95f8310..466ba04  main -> main
+================================================================================
+
 --------------------------------------------------------------------------------
 END
